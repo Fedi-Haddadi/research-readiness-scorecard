@@ -1,0 +1,47 @@
+[
+  {
+    "issue_type": "number_mismatch",
+    "severity": "critical",
+    "confidence": "high",
+    "draft_span": "analytic sample included 142 patients",
+    "table_or_ref_span": "Total (n=148)",
+    "explanation": "Sample size mismatch: draft n=142 vs table n=148",
+    "suggested_fix": "Reconcile cohort pull and update draft or Table 1 to the same n."
+  },
+  {
+    "issue_type": "number_mismatch",
+    "severity": "high",
+    "confidence": "high",
+    "draft_span": "readmission rate was 18.3% in the RPM group",
+    "table_or_ref_span": "14 (18.9)",
+    "explanation": "RPM readmission rate 18.3% in draft vs 18.9% in table",
+    "suggested_fix": "Recalculate percentage from 14/74 and align text."
+  },
+  {
+    "issue_type": "unsupported_claim",
+    "severity": "high",
+    "confidence": "high",
+    "draft_span": "p=0.024",
+    "table_or_ref_span": "p-value for the adjusted readmission model is not reported",
+    "explanation": "Draft asserts adjusted p-value that table notes say is not reported",
+    "suggested_fix": "Add p-value to table notes or remove from Results text."
+  },
+  {
+    "issue_type": "citation_error",
+    "severity": "medium",
+    "confidence": "high",
+    "draft_span": "Garcia M et al. ... 2021",
+    "table_or_ref_span": "Garcia ... 2020",
+    "explanation": "Citation year conflict for Garcia et al.",
+    "suggested_fix": "Align in-text year with reference library year 2020."
+  },
+  {
+    "issue_type": "duplication",
+    "severity": "low",
+    "confidence": "medium",
+    "draft_span": "lower 90-day readmission",
+    "table_or_ref_span": "fewer return hospitalizations within three months",
+    "explanation": "Discussion near-duplicates the primary readmission claim",
+    "suggested_fix": "Tighten Discussion to avoid repetitive claim restatement."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "C1",
+    "section": "Abstract",
+    "claim_type": "sample_size",
+    "text_span": "retrospective cohort of 142 patients",
+    "value": "142",
+    "unit": "patients",
+    "group": "total"
+  },
+  {
+    "id": "C2",
+    "section": "Results",
+    "claim_type": "sample_size",
+    "text_span": "analytic sample included 142 patients (RPM: n=71; usual care: n=71)",
+    "value": "142",
+    "unit": "patients",
+    "group": "total"
+  },
+  {
+    "id": "C3",
+    "section": "Results",
+    "claim_type": "rate",
+    "text_span": "90-day readmission rate was 18.3% in the RPM group",
+    "value": "18.3",
+    "unit": "%",
+    "group": "RPM"
+  },
+  {
+    "id": "C4",
+    "section": "Results",
+    "claim_type": "or_ci",
+    "text_span": "reduced readmission (OR 0.62, 95% CI 0.41–0.94, p=0.024)",
+    "value": "0.62",
+    "unit": "OR",
+    "group": "RPM"
+  },
+  {
+    "id": "C5",
+    "section": "Results",
+    "claim_type": "p_value",
+    "text_span": "p=0.024",
+    "value": "0.024",
+    "unit": null,
+    "group": null
+  },
+  {
+    "id": "C6",
+    "section": "Discussion",
+    "claim_type": "other",
+    "text_span": "Remote blood-pressure monitoring was associated with lower 90-day readmission",
+    "value": null,
+    "unit": null,
+    "group": "RPM"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "title": true,
+  "abstract": true,
+  "introduction": true,
+  "methods": true,
+  "results": true,
+  "discussion": true,
+  "references": true,
+  "limitations": true,
+  "data_availability": false,
+  "funding": false,
+  "conflicts": false
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "task": "Request author affiliations for ScholarOne",
+    "owner": "UNASSIGNED",
+    "deadline": null
+  },
+  {
+    "task": "Add model-card appendix",
+    "owner": "Sam",
+    "deadline": "Friday"
+  },
+  {
+    "task": "Re-check adjusted OR CI bounds",
+    "owner": "Priya",
+    "deadline": null
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "T1",
+    "variable": "sample_size",
+    "group": "total",
+    "value": "148",
+    "unit": "patients",
+    "cell_ref": "Table 1 header Total (n=148)",
+    "raw_span": "Total (n=148)"
+  },
+  {
+    "id": "T2",
+    "variable": "sample_size",
+    "group": "RPM",
+    "value": "74",
+    "unit": "patients",
+    "cell_ref": "Table 1 header RPM (n=74)",
+    "raw_span": "RPM (n=74)"
+  },
+  {
+    "id": "T3",
+    "variable": "readmission_rate",
+    "group": "RPM",
+    "value": "18.9",
+    "unit": "%",
+    "cell_ref": "90-day readmission RPM",
+    "raw_span": "14 (18.9)"
+  },
+  {
+    "id": "T4",
+    "variable": "adjusted_or",
+    "group": "note",
+    "value": "0.62",
+    "unit": "OR",
+    "cell_ref": "Notes",
+    "raw_span": "0.62 (95% CI 0.41–0.94)"
+  }
+]

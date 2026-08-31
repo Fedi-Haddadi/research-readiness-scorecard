@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+fixtures/sample_package/outputs/
+outputs/
+.pytest_cache/

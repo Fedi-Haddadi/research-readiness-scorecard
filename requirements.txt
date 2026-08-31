@@ -1,0 +1,4 @@
+# No hard dependencies — stdlib only for placeholder mode.
+# Add provider SDKs later if desired, e.g.:
+# anthropic>=0.40.0
+# openai>=1.40.0

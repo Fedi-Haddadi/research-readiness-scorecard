@@ -1,0 +1,38 @@
+[
+  {
+    "id": "R1",
+    "label": "Smith 2019",
+    "year": 2019,
+    "doi": "missing",
+    "cited": true,
+    "year_match": true,
+    "status": "incomplete metadata"
+  },
+  {
+    "id": "R2",
+    "label": "Garcia 2020",
+    "year": 2020,
+    "doi": "10.1000/example.garcia.2020",
+    "cited": true,
+    "year_match": false,
+    "status": "year conflicts with in-text citation (draft says 2021)"
+  },
+  {
+    "id": "R3",
+    "label": "Nguyen 2018",
+    "year": 2018,
+    "doi": "10.1000/example.nguyen.2018",
+    "cited": true,
+    "year_match": true,
+    "status": "ok"
+  },
+  {
+    "id": "R4",
+    "label": "Baker 2022",
+    "year": 2022,
+    "doi": "10.1000/example.baker.2022",
+    "cited": false,
+    "year_match": true,
+    "status": "orphan reference"
+  }
+]

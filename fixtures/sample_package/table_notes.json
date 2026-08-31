@@ -1,0 +1,14 @@
+[
+  {
+    "id": "N1",
+    "text": "Primary adjusted odds ratio for readmission (RPM vs usual care): 0.62 (95% CI 0.41–0.94).",
+    "contains_or_ci": true,
+    "contains_p_value": false
+  },
+  {
+    "id": "N2",
+    "text": "The p-value for the adjusted readmission model is not reported in this table.",
+    "contains_or_ci": false,
+    "contains_p_value": false
+  }
+]
